@@ -1,6 +1,6 @@
 # SAKRA
 
-This is the code for the distance monitor project that I posted on Instagram!
+This is the code for the Semi-Automatic-Kindle-Reading-Apparatus project that I posted on Instagram!
 -
 
 If you want to build this project yourself, here are the list of materials:
